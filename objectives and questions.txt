@@ -1,6 +1,6 @@
 
 
-	05/03/24
+	08/03/24
 		
 	------------------------------------------------------------------------------
 	
@@ -12,6 +12,10 @@
 			-> More specific searches within pages
 			
 		- Scrap data and use for personal investiment porpuse
+			-> search a list of tickers from a GOOGLE SHEET, 
+				scrap stocks website creating a URL from tickers name, 
+				retrieve the data to save/append in to a csv file
+				and also save the data on a GOOGLE SHEET to finish, appending it
 		
 		
 	Project Focus:
