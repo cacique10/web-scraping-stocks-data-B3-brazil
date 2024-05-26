@@ -14,7 +14,7 @@
 		- Put web scraping knowledge in pratical usages
 	
 		- Next: automate the script to write the data on my personal google sheet docs
-				generate charts with relevant indexes based on historic data gathered by script
+				generate charts with relevant indexes based on historic data gathered by script with google sheet 
+    				and tableau
 
-
-![web scraping stocks data B3 brazil](https://github.com/cacique10/web-scraping-stocks-data-B3-brazil/assets/8041016/f2e731e6-43c5-412e-b7ea-bbc00470baea)
+![13 - web scraping stocks data B3 brazil - update 1](https://github.com/cacique10/web-scraping-stocks-data-B3-brazil/assets/8041016/fba28e0a-55ce-4eac-b3fe-0360e0cd2eb6)
